@@ -111,7 +111,7 @@ const resetGame = () =>{
  }
 
 
-//  button for new button and reset buttton 
+//  buttons js reset/new game for new button and reset buttton 
 
 
 
